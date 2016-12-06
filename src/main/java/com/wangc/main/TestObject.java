@@ -27,6 +27,7 @@ public class TestObject {
         for (int i=0;i<ls.size();i++){
             System.out.println(ls.get(i));
         }
+        System.out.println("Object equals test success!");
     }
 
 }
