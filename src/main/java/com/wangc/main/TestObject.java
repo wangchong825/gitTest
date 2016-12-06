@@ -9,7 +9,7 @@ import java.util.List;
 /**
  * Created by wangc-ac on 2016/11/28.
  * test Object equals
- * yes!
+ * no!
  */
 public class TestObject {
     public static void main(String[] args){
